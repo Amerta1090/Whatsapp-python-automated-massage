@@ -1,7 +1,7 @@
 import pywhatkit as kit
 
 # Ganti dengan nomor telepon tujuan dan pesan
-phone_number = "+6285157096638"  # Format: +62 untuk Indonesia
+phone_number = "+62xxxxxxxxxx"  # Format: +62 untuk Indonesia
 message = "Hello! This is a test message sent using pywhatkit."
 hour = 16  # Jam dalam format 24-jam
 minute = 8  # Menit (pastikan beberapa menit ke depan dari waktu saat ini)
