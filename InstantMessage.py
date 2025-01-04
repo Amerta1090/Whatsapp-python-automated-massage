@@ -1,3 +1,3 @@
 import pywhatkit as kit
 
-kit.sendwhatmsg_instantly("+6285157096638", "Hello! This is a test.")
+kit.sendwhatmsg_instantly("+62xxxxxxxxxx", "Hello! This is a test.")
